@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=gui
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=gui()
+comment3.params=
+comment3.target=void\ main()
+comment4.params=
+comment4.target=void\ playscreen()
+comment5.params=
+comment5.target=void\ instructionsscreen()
+comment6.params=
+comment6.target=void\ optionsscreen()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=path
+comment8.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+numComments=9

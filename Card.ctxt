@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=
+comment1.target=Card()
+comment10.params=arr1\ arr3\ arr2\ arr4\ newDeck
+comment10.target=int[]\ CombineDeck(int[],\ int[],\ int[],\ int[],\ int[])
+comment11.params=numArrayP1\ numArrayCpu\ suitArrayP1\ suitArraycpu\ intArrayWhole\ suitArrayWhole
+comment11.target=void\ divideDeck(int[],\ int[],\ char[],\ char[],\ int[],\ char[])
+comment12.params=suitList\ spades\ clubs\ diamonds\ hearts
+comment12.target=char[]\ populateSuit(char[],\ char[],\ char[],\ char[],\ char[])
+comment2.params=
+comment2.target=int[]\ getP1NumDeck()
+comment3.params=
+comment3.target=char[]\ getP1SuitDeck()
+comment4.params=
+comment4.target=int[]\ getCpuNumDeck()
+comment5.params=
+comment5.target=char[]\ getcpuSuitDeck()
+comment6.params=a\ b
+comment6.target=int[]\ RandomizeArray(int,\ int)
+comment7.params=Deck
+comment7.target=void\ shuffleSuit(char[])
+comment8.params=Deck
+comment8.target=void\ shuffle(int[])
+comment9.params=oldDeck\ playerOne\ cpu
+comment9.target=void\ dealCard(int[],\ int[],\ int[])
+numComments=13
